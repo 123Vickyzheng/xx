@@ -17,7 +17,13 @@
 }, {
   "moduleType" : "user-management",
   "moduleName" : "server-data/phoenix-server.phxdb",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:53:33.5244689Z",
+  "resourcePaths" : [ "server-data/phoenix-server.phxdb" ],
   "resourceType" : "File"
 }, {
   "moduleType" : "global-event-handler",
