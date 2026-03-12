@@ -277,4 +277,16 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "OSH3IKCQ"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "移动端/母版页4",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:56:14.5769423Z",
+  "resourcePaths" : [ "documents/page/移动端/母版页4.json", "documents/page/移动端/母版页4.metadata.json", "documents/page/移动端/母版页4.refId.json", "documents/ref-object/CSK7MKHU.json", "documents/ref-object/CSK7MKHU.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "CSK7MKHU"
 } ]
