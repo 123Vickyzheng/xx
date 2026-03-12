@@ -70,42 +70,72 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PC", "documents/page/PC/.f.metadata.json", "documents/page/PC/.f.json", "documents/ref-object/MSLGMSR8.json", "documents/ref-object/MSLGMSR8.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "MSLGMSR8"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面", "documents/page/PC/系统页面/.f.metadata.json", "documents/page/PC/系统页面/.f.json" ],
   "resourceType" : "Folder",
   "resourceId" : "VTBZHM1P"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/登录页",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面/登录页.json", "documents/page/PC/系统页面/登录页.metadata.json", "documents/page/PC/系统页面/登录页.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "O07V8UHC"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/401无权限页面",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面/401无权限页面.json", "documents/page/PC/系统页面/401无权限页面.metadata.json", "documents/page/PC/系统页面/401无权限页面.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "HZI499TR"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/系统页面/404未发现页面",
-  "state" : "Unlocked",
+  "state" : "Remove",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PC/系统页面/404未发现页面.json", "documents/page/PC/系统页面/404未发现页面.metadata.json", "documents/page/PC/系统页面/404未发现页面.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "RO10NV78"
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
-  "state" : "Edit",
+  "state" : "Remove",
   "lockedBy" : {
     "username" : "vickyzheng",
     "email" : "vicky.zheng@developertools.com"
   },
-  "lockDateTime" : "2026-03-12T10:04:08.8483455Z",
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
   "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "JM6ERXWA"
@@ -313,4 +343,76 @@
   "resourcePaths" : [ "documents/page/移动端/文件夹1", "documents/page/移动端/文件夹1/.f.metadata.json", "documents/page/移动端/文件夹1/.f.json", "documents/ref-object/TRYLQ6NR.json", "documents/ref-object/TRYLQ6NR.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "TRYLQ6NR"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs", "documents/page/PCs/.f.metadata.json", "documents/page/PCs/.f.json", "documents/ref-object/MSLGMSR8.json", "documents/ref-object/MSLGMSR8.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "MSLGMSR8"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs/系统页面",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs/系统页面", "documents/page/PCs/系统页面/.f.metadata.json", "documents/page/PCs/系统页面/.f.json", "documents/ref-object/VTBZHM1P.json", "documents/ref-object/VTBZHM1P.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "VTBZHM1P"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs/系统页面/401无权限页面",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs/系统页面/401无权限页面.json", "documents/page/PCs/系统页面/401无权限页面.metadata.json", "documents/page/PCs/系统页面/401无权限页面.refId.json", "documents/ref-object/HZI499TR.json", "documents/ref-object/HZI499TR.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "HZI499TR"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs/系统页面/404未发现页面",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs/系统页面/404未发现页面.json", "documents/page/PCs/系统页面/404未发现页面.metadata.json", "documents/page/PCs/系统页面/404未发现页面.refId.json", "documents/ref-object/RO10NV78.json", "documents/ref-object/RO10NV78.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "RO10NV78"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs/系统页面/登录页",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs/系统页面/登录页.json", "documents/page/PCs/系统页面/登录页.metadata.json", "documents/page/PCs/系统页面/登录页.refId.json", "documents/ref-object/O07V8UHC.json", "documents/ref-object/O07V8UHC.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "O07V8UHC"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCs/页面1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:09:17.4353453Z",
+  "resourcePaths" : [ "documents/page/PCs/页面1.json", "documents/page/PCs/页面1.metadata.json", "documents/page/PCs/页面1.refId.json", "documents/ref-object/JM6ERXWA.json", "documents/ref-object/JM6ERXWA.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "JM6ERXWA"
 } ]
