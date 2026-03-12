@@ -1,13 +1,7 @@
 [ {
   "moduleType" : "applicationConfig",
   "moduleName" : "app.pxproj",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:49:27.9124495Z",
-  "resourcePaths" : [ "app.pxproj" ],
+  "state" : "Unlocked",
   "resourceType" : "File"
 }, {
   "moduleType" : "attachment",
@@ -17,13 +11,7 @@
 }, {
   "moduleType" : "user-management",
   "moduleName" : "server-data/phoenix-server.phxdb",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:53:33.5244689Z",
-  "resourcePaths" : [ "server-data/phoenix-server.phxdb" ],
+  "state" : "Unlocked",
   "resourceType" : "File"
 }, {
   "moduleType" : "global-event-handler",
@@ -46,73 +34,37 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "默认主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:52:30.0311705Z",
-  "resourcePaths" : [ "documents/theme/默认主题.json", "documents/theme/默认主题.metadata.json", "documents/theme/默认主题.refId.json", "documents/ref-object/phoenix.builtin.normal.json", "documents/ref-object/phoenix.builtin.normal.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.normal"
 }, {
   "moduleType" : "theme",
   "moduleName" : "清新主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:52:49.0782081Z",
-  "resourcePaths" : [ "documents/theme/清新主题.json", "documents/theme/清新主题.metadata.json", "documents/theme/清新主题.refId.json", "documents/ref-object/phoenix.builtin.fresh.json", "documents/ref-object/phoenix.builtin.fresh.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.fresh"
 }, {
   "moduleType" : "theme",
   "moduleName" : "教育主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:53:00.1888623Z",
-  "resourcePaths" : [ "documents/theme/教育主题.json", "documents/theme/教育主题.metadata.json", "documents/theme/教育主题.refId.json", "documents/ref-object/phoenix.builtin.education.json", "documents/ref-object/phoenix.builtin.education.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.education"
 }, {
   "moduleType" : "theme",
   "moduleName" : "电商主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:52:39.9947452Z",
-  "resourcePaths" : [ "documents/theme/电商主题.json", "documents/theme/电商主题.metadata.json", "documents/theme/电商主题.refId.json", "documents/ref-object/phoenix.builtin.ecommerce.json", "documents/ref-object/phoenix.builtin.ecommerce.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.ecommerce"
 }, {
   "moduleType" : "theme",
   "moduleName" : "商务主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:53:00.1888623Z",
-  "resourcePaths" : [ "documents/theme/商务主题.json", "documents/theme/商务主题.metadata.json", "documents/theme/商务主题.refId.json", "documents/ref-object/phoenix.builtin.business.json", "documents/ref-object/phoenix.builtin.business.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.business"
 }, {
   "moduleType" : "theme",
   "moduleName" : "暗色主题",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:49:58.4531788Z",
-  "resourcePaths" : [ "documents/theme/暗色主题.json", "documents/theme/暗色主题.metadata.json", "documents/theme/暗色主题.refId.json", "documents/ref-object/phoenix.builtin.dark-night.json", "documents/ref-object/phoenix.builtin.dark-night.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.dark-night"
 }, {
@@ -148,13 +100,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面1",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:55:34.7338691Z",
-  "resourcePaths" : [ "documents/page/PC/页面1.json", "documents/page/PC/页面1.metadata.json", "documents/page/PC/页面1.refId.json", "documents/ref-object/JM6ERXWA.json", "documents/ref-object/JM6ERXWA.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JM6ERXWA"
 }, {
@@ -286,25 +232,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PC/页面2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:49:13.6368278Z",
-  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/LURYM6TS.json", "documents/ref-object/LURYM6TS.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "LURYM6TS"
 }, {
   "moduleType" : "theme",
   "moduleName" : "暗色主题 - 副本",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:49:46.7836975Z",
-  "resourcePaths" : [ "documents/theme/暗色主题 - 副本.json", "documents/theme/暗色主题 - 副本.metadata.json", "documents/theme/暗色主题 - 副本.refId.json", "documents/ref-object/KL2T1MG4.json", "documents/ref-object/KL2T1MG4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "KL2T1MG4"
 } ]
