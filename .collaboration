@@ -274,13 +274,7 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd/系统页面/登录页",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T10:52:03.5543565Z",
-  "resourcePaths" : [ "documents/page/PCsaaadddddddd/系统页面/登录页.json", "documents/page/PCsaaadddddddd/系统页面/登录页.metadata.json", "documents/page/PCsaaadddddddd/系统页面/登录页.refId.json", "documents/ref-object/O07V8UHC.json", "documents/ref-object/O07V8UHC.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "O07V8UHC"
 }, {
