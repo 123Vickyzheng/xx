@@ -1,0 +1,82 @@
+{
+  "id" : "MNHMABU2",
+  "name" : "页面2",
+  "rootElement" : {
+    "id" : "SR2698FB",
+    "name" : "线性布局",
+    "type" : "linear-layout",
+    "pluginName" : "component-common",
+    "styles" : [ {
+      "pseudo" : "none",
+      "target" : "root",
+      "cssProperties" : [ {
+        "name" : "size",
+        "type" : "literal",
+        "literal" : {
+          "width" : "",
+          "height" : "100%",
+          "minWidth" : "",
+          "minHeight" : "",
+          "maxWidth" : "",
+          "maxHeight" : ""
+        }
+      }, {
+        "name" : "display",
+        "type" : "literal",
+        "literal" : "flex"
+      }, {
+        "name" : "flexDirection",
+        "type" : "literal",
+        "literal" : "column"
+      }, {
+        "name" : "alignItems",
+        "type" : "literal",
+        "literal" : "start"
+      }, {
+        "name" : "justifyContent",
+        "type" : "literal",
+        "literal" : "start"
+      }, {
+        "name" : "columnGap",
+        "type" : "literal",
+        "literal" : "var(--small-spacing)"
+      }, {
+        "name" : "rowGap",
+        "type" : "literal",
+        "literal" : "var(--small-spacing)"
+      }, {
+        "name" : "position",
+        "type" : "literal",
+        "literal" : "relative"
+      }, {
+        "name" : "border",
+        "type" : "literal",
+        "literal" : { }
+      } ]
+    } ],
+    "events" : [ ],
+    "properties" : [ {
+      "name" : "loading",
+      "type" : "literal",
+      "literal" : ""
+    }, {
+      "name" : "enableCustomLoading",
+      "type" : "literal",
+      "literal" : ""
+    } ],
+    "children" : [ ],
+    "description" : "",
+    "visible" : {
+      "type" : "expression",
+      "expression" : ""
+    }
+  },
+  "platform" : "pc",
+  "variables" : [ ],
+  "events" : [ ],
+  "logics" : [ ],
+  "description" : "",
+  "externalCssFiles" : [ ],
+  "externalJsFiles" : [ ],
+  "type" : "page"
+}
