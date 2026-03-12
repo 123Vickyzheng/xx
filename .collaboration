@@ -253,4 +253,16 @@
   "resourcePaths" : [ "documents/page/移动端/母版页1.json", "documents/page/移动端/母版页1.metadata.json", "documents/page/移动端/母版页1.refId.json", "documents/ref-object/J5BCLMZF.json", "documents/ref-object/J5BCLMZF.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "J5BCLMZF"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "移动端/母版页2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:57:00.6478048Z",
+  "resourcePaths" : [ "documents/page/移动端/母版页2.json", "documents/page/移动端/母版页2.metadata.json", "documents/page/移动端/母版页2.refId.json", "documents/ref-object/WN0K2TUE.json", "documents/ref-object/WN0K2TUE.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "WN0K2TUE"
 } ]
