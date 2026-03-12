@@ -289,4 +289,16 @@
   "resourcePaths" : [ "documents/page/移动端/businessComponent.json", "documents/page/移动端/businessComponent.metadata.json", "documents/page/移动端/businessComponent.refId.json", "documents/ref-object/YOYB2IQR.json", "documents/ref-object/YOYB2IQR.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "YOYB2IQR"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "移动端/文件夹1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:59:12.6344636Z",
+  "resourcePaths" : [ "documents/page/移动端/文件夹1", "documents/page/移动端/文件夹1/.f.metadata.json", "documents/page/移动端/文件夹1/.f.json", "documents/ref-object/TRYLQ6NR.json", "documents/ref-object/TRYLQ6NR.metadata.json" ],
+  "resourceType" : "Folder",
+  "resourceId" : "TRYLQ6NR"
 } ]
