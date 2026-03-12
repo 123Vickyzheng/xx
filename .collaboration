@@ -229,4 +229,16 @@
   "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "LQA4AN03"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PC/页面2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:49:13.6368278Z",
+  "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/LURYM6TS.json", "documents/ref-object/LURYM6TS.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "LURYM6TS"
 } ]
