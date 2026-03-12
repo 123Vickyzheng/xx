@@ -1,0 +1,8 @@
+{
+  "id" : "phoenix.builtin.fresh",
+  "name" : "清新主题",
+  "iconPrimaryColor" : "#52C41A",
+  "minIdeVersion" : "1.0",
+  "ideVersion" : "1.0",
+  "order" : 1
+}

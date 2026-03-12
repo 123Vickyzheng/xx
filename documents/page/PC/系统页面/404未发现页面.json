@@ -1,0 +1,139 @@
+{
+  "id" : "RO10NV78",
+  "type" : "page",
+  "name" : "404未发现页面",
+  "rootElement" : {
+    "id" : "JDNLL0LA",
+    "name" : "页面未找到根布局",
+    "type" : "linear-layout",
+    "pluginName" : "component-common",
+    "styles" : [ {
+      "pseudo" : "none",
+      "target" : "root",
+      "cssProperties" : [ {
+        "name" : "size",
+        "type" : "literal",
+        "literal" : {
+          "width" : "",
+          "height" : "100%",
+          "minWidth" : "",
+          "minHeight" : "",
+          "maxWidth" : "",
+          "maxHeight" : ""
+        }
+      }, {
+        "name" : "border",
+        "type" : "literal",
+        "literal" : { }
+      }, {
+        "name" : "display",
+        "type" : "literal",
+        "literal" : "flex"
+      }, {
+        "name" : "flexDirection",
+        "type" : "literal",
+        "literal" : "column"
+      }, {
+        "name" : "justifyContent",
+        "type" : "literal",
+        "literal" : "center"
+      }, {
+        "name" : "alignItems",
+        "type" : "literal",
+        "literal" : "center"
+      } ]
+    } ],
+    "events" : [ ],
+    "properties" : [ ],
+    "children" : [ {
+      "id" : "MTP1A05J",
+      "name" : "页面不存在标题文本",
+      "type" : "text",
+      "pluginName" : "component-common",
+      "styles" : [ {
+        "target" : "root",
+        "pseudo" : "none",
+        "cssProperties" : [ {
+          "name" : "alignSelf",
+          "type" : "literal",
+          "literal" : ""
+        } ]
+      } ],
+      "events" : [ ],
+      "properties" : [ {
+        "name" : "text",
+        "type" : "literal",
+        "literal" : "页面不存在"
+      }, {
+        "name" : "isHeader",
+        "type" : "literal",
+        "literal" : true
+      }, {
+        "name" : "level",
+        "type" : "literal",
+        "literal" : 1
+      }, {
+        "name" : "wrapping",
+        "type" : "literal",
+        "literal" : "normal"
+      }, {
+        "name" : "ellipsis",
+        "type" : "literal",
+        "literal" : false
+      } ],
+      "children" : [ ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
+    }, {
+      "id" : "E2GAHVDU",
+      "name" : "页面不存在说明文本",
+      "type" : "text",
+      "pluginName" : "component-common",
+      "styles" : [ ],
+      "events" : [ ],
+      "properties" : [ {
+        "name" : "text",
+        "type" : "literal",
+        "literal" : "您访问的页面不存在。"
+      }, {
+        "name" : "isHeader",
+        "type" : "literal",
+        "literal" : false
+      }, {
+        "name" : "level",
+        "type" : "literal",
+        "literal" : 1
+      }, {
+        "name" : "wrapping",
+        "type" : "literal",
+        "literal" : "normal"
+      }, {
+        "name" : "ellipsis",
+        "type" : "literal",
+        "literal" : false
+      } ],
+      "children" : [ ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
+    } ],
+    "description" : "",
+    "visible" : {
+      "type" : "expression",
+      "expression" : ""
+    }
+  },
+  "variables" : [ ],
+  "events" : [ ],
+  "logics" : [ ],
+  "description" : "",
+  "externalCssFiles" : [ ],
+  "externalJsFiles" : [ ],
+  "url" : "/PC/系统页面/未发现页面",
+  "platform" : "pc"
+}

@@ -1,0 +1,8 @@
+{
+  "id" : "phoenix.builtin.ecommerce",
+  "name" : "电商主题",
+  "iconPrimaryColor" : "#E93E3E",
+  "minIdeVersion" : "1.0",
+  "ideVersion" : "1.0",
+  "order" : 3
+}

@@ -1,0 +1,12 @@
+{
+  "id" : "HZI499TR",
+  "name" : "401无权限页面",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "pc",
+  "url" : "/PC/系统页面/无权限页面"
+}

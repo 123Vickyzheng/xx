@@ -1,0 +1,5 @@
+{
+  "id" : "server",
+  "name" : "服务端逻辑",
+  "description" : "运行在服务器上的逻辑"
+}

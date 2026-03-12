@@ -1,0 +1,8 @@
+{
+  "id" : "phoenix.builtin.education",
+  "name" : "教育主题",
+  "iconPrimaryColor" : "#722ED1",
+  "minIdeVersion" : "1.0",
+  "ideVersion" : "1.0",
+  "order" : 2
+}

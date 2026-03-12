@@ -1,0 +1,147 @@
+{
+  "id" : "HZI499TR",
+  "type" : "page",
+  "name" : "401无权限页面",
+  "rootElement" : {
+    "id" : "HW36CGKB",
+    "name" : "未授权页根布局",
+    "type" : "linear-layout",
+    "pluginName" : "component-common",
+    "styles" : [ {
+      "pseudo" : "none",
+      "target" : "root",
+      "cssProperties" : [ {
+        "name" : "size",
+        "type" : "literal",
+        "literal" : {
+          "width" : "",
+          "height" : "100%",
+          "minWidth" : "",
+          "minHeight" : "",
+          "maxWidth" : "",
+          "maxHeight" : ""
+        }
+      }, {
+        "name" : "border",
+        "type" : "literal",
+        "literal" : { }
+      }, {
+        "name" : "display",
+        "type" : "literal",
+        "literal" : "flex"
+      }, {
+        "name" : "flexDirection",
+        "type" : "literal",
+        "literal" : "column"
+      }, {
+        "name" : "justifyContent",
+        "type" : "literal",
+        "literal" : "center"
+      }, {
+        "name" : "alignItems",
+        "type" : "literal",
+        "literal" : "center"
+      } ]
+    } ],
+    "events" : [ ],
+    "properties" : [ ],
+    "children" : [ {
+      "id" : "AUJUMCMS",
+      "name" : "未授权标题文本",
+      "type" : "text",
+      "pluginName" : "component-common",
+      "styles" : [ {
+        "target" : "root",
+        "pseudo" : "none",
+        "cssProperties" : [ {
+          "name" : "alignSelf",
+          "type" : "literal",
+          "literal" : ""
+        } ]
+      } ],
+      "events" : [ ],
+      "properties" : [ {
+        "name" : "text",
+        "type" : "literal",
+        "literal" : "页面未授权"
+      }, {
+        "name" : "isHeader",
+        "type" : "literal",
+        "literal" : true
+      }, {
+        "name" : "level",
+        "type" : "literal",
+        "literal" : 1
+      }, {
+        "name" : "wrapping",
+        "type" : "literal",
+        "literal" : "normal"
+      }, {
+        "name" : "ellipsis",
+        "type" : "literal",
+        "literal" : false
+      } ],
+      "children" : [ ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
+    }, {
+      "id" : "LQPAMK7P",
+      "name" : "未授权说明文本",
+      "type" : "text",
+      "pluginName" : "component-common",
+      "styles" : [ {
+        "target" : "root",
+        "pseudo" : "none",
+        "cssProperties" : [ {
+          "name" : "alignSelf",
+          "type" : "literal",
+          "literal" : ""
+        } ]
+      } ],
+      "events" : [ ],
+      "properties" : [ {
+        "name" : "text",
+        "type" : "literal",
+        "literal" : "您没有权限访问目标页面，请查看登录账号或者页面地址。"
+      }, {
+        "name" : "isHeader",
+        "type" : "literal",
+        "literal" : false
+      }, {
+        "name" : "level",
+        "type" : "literal",
+        "literal" : 1
+      }, {
+        "name" : "wrapping",
+        "type" : "literal",
+        "literal" : "normal"
+      }, {
+        "name" : "ellipsis",
+        "type" : "literal",
+        "literal" : false
+      } ],
+      "children" : [ ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
+    } ],
+    "description" : "",
+    "visible" : {
+      "type" : "expression",
+      "expression" : ""
+    }
+  },
+  "variables" : [ ],
+  "events" : [ ],
+  "logics" : [ ],
+  "description" : "",
+  "externalCssFiles" : [ ],
+  "externalJsFiles" : [ ],
+  "url" : "/PC/系统页面/无权限页面",
+  "platform" : "pc"
+}

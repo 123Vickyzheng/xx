@@ -1,0 +1,16 @@
+{
+  "V8DCIZG7" : "LoginConfig",
+  "CE5TLY70" : "获取登录配置",
+  "PD3E6LU4" : "config",
+  "ID37ENW8" : "userName",
+  "CTYSRUV2" : "password",
+  "WIJKGKPT" : "rememberMe",
+  "W92AAV9A" : "message",
+  "P9NO2KCX" : "success",
+  "YJEE3Y43" : "isValid",
+  "I5AIGQT9" : "登录",
+  "IF6CMOHV.validate" : "表单.validate",
+  "HY00OVPF" : "redirect",
+  "ZOBOJWMX" : "loginError",
+  "Length" : "Length"
+}

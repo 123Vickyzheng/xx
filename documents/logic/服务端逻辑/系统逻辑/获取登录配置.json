@@ -1,0 +1,75 @@
+{
+  "id" : "CE5TLY70",
+  "name" : "获取登录配置",
+  "description" : "",
+  "variables" : [ ],
+  "parameters" : [ ],
+  "returnValues" : [ {
+    "id" : "P6X0JSSM",
+    "name" : "config",
+    "dataType" : {
+      "typeId" : "Auto"
+    }
+  } ],
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "F4RA7RK0",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 80,
+          "y" : 200
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "FVA2IFYJ",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 800,
+          "y" : 200
+        }
+      }
+    }, {
+      "id" : "M5D71PLE",
+      "pluginName" : "logic-user-management",
+      "identifier" : "get-login-config",
+      "content" : {
+        "configOutput" : {
+          "type" : "variable",
+          "literal" : {
+            "enableThirdPartyLogin" : null,
+            "thirdPartyLoginConfig" : {
+              "loginData" : { }
+            }
+          },
+          "variable" : "P6X0JSSM"
+        }
+      },
+      "attributes" : {
+        "position" : {
+          "x" : 356,
+          "y" : 200
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "Z7PIFTTT",
+      "sourceId" : "F4RA7RK0",
+      "targetId" : "M5D71PLE",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    }, {
+      "id" : "ML8EKG4E",
+      "sourceId" : "M5D71PLE",
+      "targetId" : "FVA2IFYJ",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

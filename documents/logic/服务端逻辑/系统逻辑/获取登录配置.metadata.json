@@ -1,0 +1,14 @@
+{
+  "id" : "CE5TLY70",
+  "name" : "获取登录配置",
+  "description" : "",
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ {
+    "id" : "P6X0JSSM",
+    "name" : "config",
+    "dataType" : {
+      "typeId" : "Auto"
+    }
+  } ]
+}
