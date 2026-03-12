@@ -226,13 +226,7 @@
 }, {
   "moduleType" : "static-resource",
   "moduleName" : "文件/文件夹",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:34:27.5689893Z",
-  "resourcePaths" : [ "documents/static-resource/文件/文件夹", "documents/static-resource/文件/文件夹/.f.metadata.json", "documents/static-resource/文件/文件夹/.f.json", "documents/ref-object/LQA4AN03.json", "documents/ref-object/LQA4AN03.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "LQA4AN03"
 } ]
