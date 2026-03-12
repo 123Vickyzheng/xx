@@ -247,4 +247,16 @@
   "resourcePaths" : [ "documents/page/PC/页面2.json", "documents/page/PC/页面2.metadata.json", "documents/page/PC/页面2.refId.json", "documents/ref-object/LURYM6TS.json", "documents/ref-object/LURYM6TS.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "LURYM6TS"
+}, {
+  "moduleType" : "theme",
+  "moduleName" : "暗色主题 - 副本",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:49:46.7836975Z",
+  "resourcePaths" : [ "documents/theme/暗色主题 - 副本.json", "documents/theme/暗色主题 - 副本.metadata.json", "documents/theme/暗色主题 - 副本.refId.json", "documents/ref-object/KL2T1MG4.json", "documents/ref-object/KL2T1MG4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "KL2T1MG4"
 } ]
