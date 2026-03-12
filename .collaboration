@@ -238,25 +238,49 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd/系统页面",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:52:03.5543565Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddddddd/系统页面", "documents/page/PCsaaadddddddd/系统页面/.f.metadata.json", "documents/page/PCsaaadddddddd/系统页面/.f.json", "documents/ref-object/VTBZHM1P.json", "documents/ref-object/VTBZHM1P.metadata.json" ],
   "resourceType" : "Folder",
   "resourceId" : "VTBZHM1P"
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd/系统页面/401无权限页面",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:52:03.5543565Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddddddd/系统页面/401无权限页面.json", "documents/page/PCsaaadddddddd/系统页面/401无权限页面.metadata.json", "documents/page/PCsaaadddddddd/系统页面/401无权限页面.refId.json", "documents/ref-object/HZI499TR.json", "documents/ref-object/HZI499TR.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "HZI499TR"
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd/系统页面/404未发现页面",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:52:03.5543565Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddddddd/系统页面/404未发现页面.json", "documents/page/PCsaaadddddddd/系统页面/404未发现页面.metadata.json", "documents/page/PCsaaadddddddd/系统页面/404未发现页面.refId.json", "documents/ref-object/RO10NV78.json", "documents/ref-object/RO10NV78.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "RO10NV78"
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd/系统页面/登录页",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:52:03.5543565Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddddddd/系统页面/登录页.json", "documents/page/PCsaaadddddddd/系统页面/登录页.metadata.json", "documents/page/PCsaaadddddddd/系统页面/登录页.refId.json", "documents/ref-object/O07V8UHC.json", "documents/ref-object/O07V8UHC.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "O07V8UHC"
 }, {
