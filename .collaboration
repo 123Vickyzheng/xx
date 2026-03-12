@@ -274,13 +274,7 @@
 }, {
   "moduleType" : "type",
   "moduleName" : "枚举/文件夹1new",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T10:55:29.1495869Z",
-  "resourcePaths" : [ "documents/type/枚举/文件夹1new", "documents/type/枚举/文件夹1new/.f.metadata.json", "documents/type/枚举/文件夹1new/.f.json", "documents/ref-object/OSH3IKCQ.json", "documents/ref-object/OSH3IKCQ.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Folder",
   "resourceId" : "OSH3IKCQ"
 } ]
