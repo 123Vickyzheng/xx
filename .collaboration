@@ -265,4 +265,16 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "JM6ERXWA"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "PCsaaa/页面2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:29:02.5799085Z",
+  "resourcePaths" : [ "documents/page/PCsaaa/页面2.json", "documents/page/PCsaaa/页面2.metadata.json", "documents/page/PCsaaa/页面2.refId.json", "documents/ref-object/MNHMABU2.json", "documents/ref-object/MNHMABU2.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "MNHMABU2"
 } ]
