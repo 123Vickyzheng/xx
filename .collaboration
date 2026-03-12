@@ -307,4 +307,16 @@
   "resourcePaths" : [ "documents/type/枚举/枚举1.json", "documents/type/枚举/枚举1.metadata.json", "documents/type/枚举/枚举1.refId.json", "documents/ref-object/KJOWA4J0.json", "documents/ref-object/KJOWA4J0.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "KJOWA4J0"
+}, {
+  "moduleType" : "type",
+  "moduleName" : "枚举/枚举2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:53:23.4630695Z",
+  "resourcePaths" : [ "documents/type/枚举/枚举2.json", "documents/type/枚举/枚举2.metadata.json", "documents/type/枚举/枚举2.refId.json", "documents/ref-object/EHJ1YC18.json", "documents/ref-object/EHJ1YC18.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "EHJ1YC18"
 } ]
