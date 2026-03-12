@@ -268,7 +268,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddd/页面2",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:42:00.7328511Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddd/页面2.json", "documents/page/PCsaaadddd/页面2.metadata.json", "documents/page/PCsaaadddd/页面2.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "MNHMABU2"
 } ]
