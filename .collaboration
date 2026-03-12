@@ -70,7 +70,13 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "暗色主题",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:49:58.4531788Z",
+  "resourcePaths" : [ "documents/theme/暗色主题.json", "documents/theme/暗色主题.metadata.json", "documents/theme/暗色主题.refId.json", "documents/ref-object/phoenix.builtin.dark-night.json", "documents/ref-object/phoenix.builtin.dark-night.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.dark-night"
 }, {
