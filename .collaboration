@@ -220,13 +220,7 @@
 }, {
   "moduleType" : "datasource",
   "moduleName" : "默认数据源",
-  "state" : "Edit",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T09:35:57.8531406Z",
-  "resourcePaths" : [ "documents/datasource/默认数据源.json", "documents/datasource/默认数据源.metadata.json", "documents/datasource/默认数据源.refId.json", "documents/ref-object/GUXB7UIK.json", "documents/ref-object/GUXB7UIK.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GUXB7UIK"
 }, {
