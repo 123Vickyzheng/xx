@@ -1,7 +1,13 @@
 [ {
   "moduleType" : "applicationConfig",
   "moduleName" : "app.pxproj",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:49:27.9124495Z",
+  "resourcePaths" : [ "app.pxproj" ],
   "resourceType" : "File"
 }, {
   "moduleType" : "attachment",
