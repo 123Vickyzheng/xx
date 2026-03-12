@@ -1,7 +1,7 @@
 {
-  "id" : "LURYM6TS",
-  "name" : "页面2",
-  "resourceType" : "page",
+  "id" : "J5BCLMZF",
+  "name" : "母版页1",
+  "resourceType" : "masterPage",
   "description" : "",
   "variables" : [ ],
   "logics" : [ ],

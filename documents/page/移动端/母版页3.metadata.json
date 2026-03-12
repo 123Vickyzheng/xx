@@ -1,0 +1,11 @@
+{
+  "id" : "UX9CILFX",
+  "name" : "母版页3",
+  "resourceType" : "masterPage",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}

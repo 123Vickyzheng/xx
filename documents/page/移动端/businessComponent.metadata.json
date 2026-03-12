@@ -1,0 +1,11 @@
+{
+  "id" : "YOYB2IQR",
+  "name" : "businessComponent",
+  "resourceType" : "businessComponent",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}

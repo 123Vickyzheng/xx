@@ -1,0 +1,11 @@
+{
+  "id" : "WN0K2TUE",
+  "name" : "母版页2",
+  "resourceType" : "masterPage",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}
