@@ -64,7 +64,13 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "电商主题",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:52:39.9947452Z",
+  "resourcePaths" : [ "documents/theme/电商主题.json", "documents/theme/电商主题.metadata.json", "documents/theme/电商主题.refId.json", "documents/ref-object/phoenix.builtin.ecommerce.json", "documents/ref-object/phoenix.builtin.ecommerce.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.ecommerce"
 }, {
