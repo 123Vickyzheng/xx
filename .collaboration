@@ -232,7 +232,13 @@
 }, {
   "moduleType" : "page",
   "moduleName" : "PCsaaadddddddd",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T10:51:00.7755629Z",
+  "resourcePaths" : [ "documents/page/PCsaaadddddddd", "documents/page/PCsaaadddddddd/.f.metadata.json", "documents/page/PCsaaadddddddd/.f.json" ],
   "resourceType" : "Folder",
   "resourceId" : "MSLGMSR8"
 }, {
