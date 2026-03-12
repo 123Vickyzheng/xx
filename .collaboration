@@ -241,4 +241,16 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "KL2T1MG4"
+}, {
+  "moduleType" : "page",
+  "moduleName" : "移动端/母版页1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:56:46.0329182Z",
+  "resourcePaths" : [ "documents/page/移动端/母版页1.json", "documents/page/移动端/母版页1.metadata.json", "documents/page/移动端/母版页1.refId.json", "documents/ref-object/J5BCLMZF.json", "documents/ref-object/J5BCLMZF.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "J5BCLMZF"
 } ]
