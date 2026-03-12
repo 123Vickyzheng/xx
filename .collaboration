@@ -295,16 +295,4 @@
   "resourcePaths" : [ "documents/page/PCsaaadddddddd/页面2.json", "documents/page/PCsaaadddddddd/页面2.metadata.json", "documents/page/PCsaaadddddddd/页面2.refId.json" ],
   "resourceType" : "Document",
   "resourceId" : "MNHMABU2"
-}, {
-  "moduleType" : "type",
-  "moduleName" : "枚举/枚举2",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-12T10:53:23.4630695Z",
-  "resourcePaths" : [ "documents/type/枚举/枚举2.json", "documents/type/枚举/枚举2.metadata.json", "documents/type/枚举/枚举2.refId.json", "documents/ref-object/EHJ1YC18.json", "documents/ref-object/EHJ1YC18.metadata.json" ],
-  "resourceType" : "Document",
-  "resourceId" : "EHJ1YC18"
 } ]
