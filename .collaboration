@@ -64,7 +64,13 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "教育主题",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:53:00.1888623Z",
+  "resourcePaths" : [ "documents/theme/教育主题.json", "documents/theme/教育主题.metadata.json", "documents/theme/教育主题.refId.json", "documents/ref-object/phoenix.builtin.education.json", "documents/ref-object/phoenix.builtin.education.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.education"
 }, {
@@ -82,7 +88,13 @@
 }, {
   "moduleType" : "theme",
   "moduleName" : "商务主题",
-  "state" : "Unlocked",
+  "state" : "Edit",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-12T09:53:00.1888623Z",
+  "resourcePaths" : [ "documents/theme/商务主题.json", "documents/theme/商务主题.metadata.json", "documents/theme/商务主题.refId.json", "documents/ref-object/phoenix.builtin.business.json", "documents/ref-object/phoenix.builtin.business.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "phoenix.builtin.business"
 }, {
