@@ -62,6 +62,140 @@
         "type" : "expression",
         "expression" : ""
       }
+    }, {
+      "id" : "WASGVW4Q",
+      "name" : "线性布局1",
+      "type" : "linear-layout",
+      "pluginName" : "component-common",
+      "styles" : [ {
+        "pseudo" : "none",
+        "target" : "root",
+        "cssProperties" : [ {
+          "name" : "size",
+          "type" : "literal",
+          "literal" : {
+            "width" : "",
+            "height" : "100%",
+            "minWidth" : "",
+            "minHeight" : "",
+            "maxWidth" : "",
+            "maxHeight" : ""
+          }
+        }, {
+          "name" : "border",
+          "type" : "literal",
+          "literal" : { }
+        } ]
+      } ],
+      "events" : [ ],
+      "properties" : [ ],
+      "children" : [ {
+        "id" : "JPCHL34D",
+        "name" : "文本1",
+        "type" : "text",
+        "pluginName" : "component-common",
+        "styles" : [ ],
+        "events" : [ ],
+        "properties" : [ {
+          "name" : "text",
+          "type" : "literal",
+          "literal" : "请添加组件开始构建页面"
+        }, {
+          "name" : "isHeader",
+          "type" : "literal",
+          "literal" : false
+        }, {
+          "name" : "level",
+          "type" : "literal",
+          "literal" : 1
+        }, {
+          "name" : "wrapping",
+          "type" : "literal",
+          "literal" : "normal"
+        }, {
+          "name" : "ellipsis",
+          "type" : "literal",
+          "literal" : false
+        } ],
+        "children" : [ ],
+        "description" : "",
+        "visible" : {
+          "type" : "expression",
+          "expression" : ""
+        }
+      }, {
+        "id" : "MSXCB6JG",
+        "name" : "线性布局2",
+        "type" : "linear-layout",
+        "pluginName" : "component-common",
+        "styles" : [ {
+          "pseudo" : "none",
+          "target" : "root",
+          "cssProperties" : [ {
+            "name" : "size",
+            "type" : "literal",
+            "literal" : {
+              "width" : "",
+              "height" : "100%",
+              "minWidth" : "",
+              "minHeight" : "",
+              "maxWidth" : "",
+              "maxHeight" : ""
+            }
+          }, {
+            "name" : "border",
+            "type" : "literal",
+            "literal" : { }
+          } ]
+        } ],
+        "events" : [ ],
+        "properties" : [ ],
+        "children" : [ {
+          "id" : "NKEOU62G",
+          "name" : "文本2",
+          "type" : "text",
+          "pluginName" : "component-common",
+          "styles" : [ ],
+          "events" : [ ],
+          "properties" : [ {
+            "name" : "text",
+            "type" : "literal",
+            "literal" : "请添加组件开始构建页面"
+          }, {
+            "name" : "isHeader",
+            "type" : "literal",
+            "literal" : false
+          }, {
+            "name" : "level",
+            "type" : "literal",
+            "literal" : 1
+          }, {
+            "name" : "wrapping",
+            "type" : "literal",
+            "literal" : "nowrap"
+          }, {
+            "name" : "ellipsis",
+            "type" : "literal",
+            "literal" : false
+          } ],
+          "children" : [ ],
+          "description" : "",
+          "visible" : {
+            "type" : "expression",
+            "expression" : ""
+          }
+        } ],
+        "description" : "",
+        "visible" : {
+          "type" : "expression",
+          "expression" : ""
+        }
+      } ],
+      "description" : "",
+      "visible" : {
+        "type" : "expression",
+        "expression" : ""
+      }
     } ],
     "description" : "",
     "visible" : {

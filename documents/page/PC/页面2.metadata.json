@@ -1,0 +1,11 @@
+{
+  "id" : "LURYM6TS",
+  "name" : "页面2",
+  "resourceType" : "page",
+  "description" : "",
+  "variables" : [ ],
+  "logics" : [ ],
+  "eventListeners" : [ ],
+  "elementEventListeners" : [ ],
+  "platform" : "mobile"
+}

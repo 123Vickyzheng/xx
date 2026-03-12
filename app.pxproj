@@ -3,5 +3,8 @@
   "appName" : "xx",
   "ideVersion" : "0.0.1",
   "branchName" : "master",
-  "repoUrl" : "https://github.com/123Vickyzheng/xx.git"
+  "repoUrl" : "https://github.com/123Vickyzheng/xx.git",
+  "theme-resources" : {
+    "currentTheme" : "phoenix.builtin.dark-night"
+  }
 }
